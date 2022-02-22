@@ -1,0 +1,28 @@
+{
+   "id":"35fdeee6-028f-410b-b4db-badb0b843f1e",
+   "nome": "Rioner",
+   "documento": "328264468000",
+   "tipoFornecedor": 1,
+   "endereco":{
+      "id":"81496dcf-0770-4d26-a8a2-57c3114fe067",
+      "logradouro": "Rua Adélia de Oliveira",
+      "numero": "148",
+      "complemento": "Apto 12 - Torre 7",
+      "cep": "13295478",
+      "bairro": "JD Pacaembu",
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "fornecedorId":"00000000-0000-0000-0000-000000000000"
+   },
+   "ativo":true
+}
+
+{
+  "id": "e8cad19c-3805-4295-911c-f5375d36144f",
+  "fornecedorId": "e8cad19c-3805-4295-911c-f5375d36144f"
+  "nome": "Adubo",
+  "descricao": "Adubo 10x15x15",
+  "imagem": "",
+  "valor": 10,
+  "ativo": true
+}

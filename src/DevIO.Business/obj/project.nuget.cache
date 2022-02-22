@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vzsw4ZAKnijDVGDxBcJtTYCVPN4Go0nAQWQcaGLx3/JprulpFcixRzox5GcO5UQG+JQk0K6aRc9SlJXv3ISLXg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Cursos\\API\\MinhaApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rioner Batista\\.nuget\\packages\\fluentvalidation\\3.0.0\\fluentvalidation.3.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "DevIO.Business depends on FluentValidation (>= 2.2.0) but FluentValidation 2.2.0 was not found. An approximate best match of FluentValidation 3.0.0 was resolved.",
+      "libraryId": "FluentValidation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FluentValidation 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "libraryId": "FluentValidation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.deps.json
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.pdb
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Workspace\Cursos\MinhaAppMvcCompleta\src\DevIO.Data\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.pdb
